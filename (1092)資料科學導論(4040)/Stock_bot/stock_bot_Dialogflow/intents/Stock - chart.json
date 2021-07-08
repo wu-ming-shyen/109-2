@@ -1,0 +1,54 @@
+{
+  "id": "7274e0aa-9c5a-4db7-bb1d-15a1a9064bf8",
+  "parentId": "529d5413-f265-46b2-86e4-c6ec8e52a8e0",
+  "rootParentId": "529d5413-f265-46b2-86e4-c6ec8e52a8e0",
+  "name": "Stock - chart",
+  "auto": true,
+  "contexts": [
+    "Stock-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "askStockChart",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "80984d0c-9614-4cab-9e03-1629e02ec6e2",
+          "name": "Stock_Statistic",
+          "required": false,
+          "dataType": "@Stock_Statistic",
+          "value": "$Stock_Statistic",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "zh-tw",
+          "condition": ""
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "telegram": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

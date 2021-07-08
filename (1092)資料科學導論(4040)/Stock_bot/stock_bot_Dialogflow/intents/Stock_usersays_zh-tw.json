@@ -1,0 +1,241 @@
+[
+  {
+    "id": "4da98624-03c1-4b9a-b0e0-ac4f62282e69",
+    "data": [
+      {
+        "text": "8299",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "zh-tw",
+    "updated": 0
+  },
+  {
+    "id": "87a683b8-9912-4093-868f-3d7c1aec5ae3",
+    "data": [
+      {
+        "text": "6510",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "zh-tw",
+    "updated": 0
+  },
+  {
+    "id": "b145de4f-735b-4bd6-a93d-4c97ebd36367",
+    "data": [
+      {
+        "text": "6239",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "zh-tw",
+    "updated": 0
+  },
+  {
+    "id": "b13be3c0-75ba-49bb-993c-8fae5eaa4435",
+    "data": [
+      {
+        "text": "6202",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "zh-tw",
+    "updated": 0
+  },
+  {
+    "id": "3c201dcb-cc91-4d63-b2c2-ea88b7284daa",
+    "data": [
+      {
+        "text": "6116",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "zh-tw",
+    "updated": 0
+  },
+  {
+    "id": "4a549aec-ffad-4121-a355-dd1a3b8a94ac",
+    "data": [
+      {
+        "text": "5904",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "zh-tw",
+    "updated": 0
+  },
+  {
+    "id": "9d336dc4-f26b-4478-8971-4fbb3150eea7",
+    "data": [
+      {
+        "text": "5229",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "zh-tw",
+    "updated": 0
+  },
+  {
+    "id": "1c792a15-97de-4ba6-9a09-f9ad37c007a6",
+    "data": [
+      {
+        "text": "4546",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "zh-tw",
+    "updated": 0
+  },
+  {
+    "id": "8e9bc0a7-9fd8-4fa0-b369-913f0faed527",
+    "data": [
+      {
+        "text": "3529",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "zh-tw",
+    "updated": 0
+  },
+  {
+    "id": "4e481fca-45c8-4a12-ad27-52813a95a21e",
+    "data": [
+      {
+        "text": "3426",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "zh-tw",
+    "updated": 0
+  },
+  {
+    "id": "875c5a14-0de5-4c76-9275-02b03ff84056",
+    "data": [
+      {
+        "text": "3008",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "zh-tw",
+    "updated": 0
+  },
+  {
+    "id": "8eccd54f-3393-4e14-ae54-406f7462ede5",
+    "data": [
+      {
+        "text": "2603",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "zh-tw",
+    "updated": 0
+  },
+  {
+    "id": "f2c2c56a-d28c-4207-8ac6-2b17ade579f0",
+    "data": [
+      {
+        "text": "2454",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "zh-tw",
+    "updated": 0
+  },
+  {
+    "id": "b1358cba-7408-4efb-9b45-995ef9a74766",
+    "data": [
+      {
+        "text": "2330",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "zh-tw",
+    "updated": 0
+  },
+  {
+    "id": "a8d0ab1d-915e-4b7c-a62b-a51499bc8c9d",
+    "data": [
+      {
+        "text": "2308",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "zh-tw",
+    "updated": 0
+  },
+  {
+    "id": "482124ac-a178-4974-9013-e52cdc540928",
+    "data": [
+      {
+        "text": "2303",
+        "meta": "@Stock",
+        "alias": "Stock",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "zh-tw",
+    "updated": 0
+  },
+  {
+    "id": "2f3b2da5-1dcb-469c-8c3f-c76bfdfbe3ea",
+    "data": [
+      {
+        "text": "2002",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "zh-tw",
+    "updated": 0
+  }
+]

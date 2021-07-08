@@ -1,0 +1,23 @@
+[
+  {
+    "value": "day statistic",
+    "synonyms": [
+      "day statistic",
+      "日成交統計"
+    ]
+  },
+  {
+    "value": "month statistic",
+    "synonyms": [
+      "month statistic",
+      "月成交統計"
+    ]
+  },
+  {
+    "value": "year statistic",
+    "synonyms": [
+      "year statistic",
+      "年成交統計"
+    ]
+  }
+]

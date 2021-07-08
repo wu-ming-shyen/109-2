@@ -1,0 +1,47 @@
+[
+  {
+    "id": "94cbfe62-7da8-4088-8d3d-f5f54734fdf1",
+    "data": [
+      {
+        "text": "year statistic",
+        "meta": "@Stock_Statistic",
+        "alias": "Stock_Statistic",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "zh-tw",
+    "updated": 0
+  },
+  {
+    "id": "6d995c73-4854-495e-b51e-ff4e9a548f0b",
+    "data": [
+      {
+        "text": "month statistic",
+        "meta": "@Stock_Statistic",
+        "alias": "Stock_Statistic",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "zh-tw",
+    "updated": 0
+  },
+  {
+    "id": "8060126e-5453-481e-ae59-b117fc5209f2",
+    "data": [
+      {
+        "text": "day statistic",
+        "meta": "@Stock_Statistic",
+        "alias": "Stock_Statistic",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "zh-tw",
+    "updated": 0
+  }
+]

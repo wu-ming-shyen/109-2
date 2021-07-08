@@ -1,0 +1,9 @@
+{
+  "id": "f888b617-9b76-4474-b0c8-26700cab721c",
+  "name": "Stock_Statistic",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

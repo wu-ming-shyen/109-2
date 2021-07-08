@@ -1,0 +1,9 @@
+{
+  "id": "ec19de12-4daf-42b8-ab41-1062bdc8ae74",
+  "name": "Stock",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

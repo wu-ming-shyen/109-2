@@ -1,0 +1,17 @@
+[
+  {
+    "id": "3166f782-076f-4a9e-a966-46f82acc4f85",
+    "data": [
+      {
+        "text": "service",
+        "meta": "@Service",
+        "alias": "Service",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "zh-tw",
+    "updated": 0
+  }
+]

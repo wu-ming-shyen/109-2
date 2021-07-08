@@ -1,0 +1,128 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>貓狗領養系統</title>
+    <style>
+        body {
+            background-color: papayawhip;
+        }
+        
+        nav {
+            margin: -10px;
+            height: 250px;
+            text-align: center;
+            background-color: rgb(60, 100, 200);
+        }
+        
+        .title {
+            float: left;
+            margin: 75px;
+        }
+        
+        .animal1 {
+            margin: 50px;
+        }
+        
+        .animal2 {
+            float: right;
+            margin: 110px;
+        }
+        
+        main {
+            font-size: 25px;
+            color: rgb(150, 120, 25);
+            margin-top: 170px;
+            text-align: left;
+        }
+        
+        input {
+            width: 500px;
+            height: 50px;
+            font-size: 25px;
+        }
+        
+        input[type='submit'] {
+            width: 100px;
+            height: 50px;
+            margin-top: 50px;
+            font-size: 25px;
+        }
+        table,
+        th,
+        td {
+            border: 2px solid black;
+            border-collapse: collapse;
+        }
+        
+        th {
+            width: 200px;
+            height: 50px;
+            font-size: 30px;
+            background-color: burlywood;
+        }
+        
+        td {
+            width: 500px;
+            height: 50px;
+        }
+    </style>
+</head>
+
+<body>
+    <nav>
+        <a href="../index.html"><img class="title" src="I31_sign_up/title.png" alt="回首頁"></a>
+        <img class="animal1" src="I31_sign_up/animal1.png" alt="">
+        <img class="animal2" src="I31_sign_up/animal2.png" alt="">
+    </nav>
+    <main>    
+        <form action="I31_sign_up.php" method="post">
+            <table align="center">
+            <tr>
+                <th>使用者名稱:</th>
+                <td><input type="text" name="U_Name"></td>
+            </tr>
+            <tr>
+                <th>使用者Email:</th>
+                <td><input type="text" name="U_Email"></td>
+            </tr>
+            <tr>
+                <th>使用者密碼:</th>
+                <td><input type="text" name="U_Password1"></td>
+            </tr>
+            <tr>
+                <th>再次確認密碼:</th>
+                <td><input type="text" name="U_Password2"></td>
+            </tr>
+            <tr>
+                <th>性別:</th>
+                <td><input type="text" name="U_sex"></td>
+            </tr>
+            <tr>
+                <th>身份證字號:</th>
+                <td><input type="text" name="U_id_number"></td>
+            </tr>
+            <tr>
+                <th>電話:</th>
+                <td><input type="text" name="U_phone"></td>
+            </tr>
+            <tr>
+                <th>地址:</th>
+                <td><input type="text" name="U_address"></td>
+            </tr>
+            <tr>
+                <th>生日:</th>
+                <td><input type='date' name='U_birthday'></td>
+            </tr>
+            </table>
+            <div align="center">
+                <input type="submit" name="submit" value="註冊" >
+            </div>
+        </form>
+    </main>
+</body>
+
+</html>

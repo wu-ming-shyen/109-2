@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CF</string>
+    <string name="charC">\u2109</string>
+    <string name="charF">\u2103</string>
+</resources>

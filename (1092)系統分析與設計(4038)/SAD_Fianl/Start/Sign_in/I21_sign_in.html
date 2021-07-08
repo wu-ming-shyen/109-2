@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>貓狗領養系統</title>
+    <style>
+        body {
+            background-color: papayawhip;
+            text-align: center;
+        }
+        
+        nav {
+            margin: -10px;
+            height: 250px;
+            text-align: center;
+            background-color: rgb(60, 100, 200);
+        }
+        
+        .title {
+            float: left;
+            margin: 75px;
+        }
+        
+        .animal1 {
+            margin: 50px;
+            margin-left: -110px;
+        }
+        
+        .animal2 {
+            float:right;
+            margin-top: 110px;
+            margin-right: 0px;
+        }
+        
+        table {
+            font-size: 25px;
+            color: rgb(150, 120, 25);
+            margin-top: 100px;
+        }
+        
+        input {
+            width: 500px;
+            height: 50px;
+            font-size: 25px;
+        }
+        input[type='submit']{
+            width: 150px;
+            height: 50px;
+            margin: 50px;
+        }
+    </style>
+</head>
+
+<body>
+    
+    <nav>
+        <img class="animal1" src="I21_sign_in_img/animal1.png" alt="">
+        <a href="../index.html"><img class="title" src="I21_sign_in_img/title.png" alt="回首頁"></a>
+        
+        <img class="animal2" src="I21_sign_in_img/animal2.png" alt="">
+    </nav>
+    <table align="center" valign="center">
+        <tr>
+            <td valign="bottom">
+                <input type="submit" onclick="location.href='../Sign_up/I31_sign_up.html'" value="註冊">
+            </td>
+            <td>
+                <form action="I21_sign_in.php" method="post">
+                    <br>
+                    <h1>使用者帳號:</h1>
+                    <input type="text" name="U_Account">
+                    <h1>使用者密碼:</h1>
+                    <input type="password" name="U_Password">
+                    <br>
+                    <input type="submit" name="submit" value="登錄">     
+                </form>
+            </td>
+            
+            <td valign="bottom">
+                <input type="submit" onclick="location.href='../Forgot_password/I11_forgot_password.html'" value="忘記密碼">
+            </td>
+        </tr>
+    </table>
+</body>
+
+</html>
